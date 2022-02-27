@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-<p>Are you looking for a job and want to get your resume noticed by employers? If the answer is yes, then this program is for you.<br><br>
+<p>Are you looking for a job and want to get your resume noticed by employers? If the answer is yes, then this program is for you.<br>
 
 Studies have shown that up to 75% of qualified applicants are rejected even before they are seen by human eyes. This happens because most companies use a software called Applicant Tracking System (ATS) to scan, sort and rank job applicants.<br>
 
